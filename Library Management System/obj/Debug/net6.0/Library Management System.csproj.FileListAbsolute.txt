@@ -1,0 +1,15 @@
+H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.csproj.AssemblyReference.cache
+H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfoInputs.cache
+H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfo.cs
+H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.csproj.CoreCompileInputs.cache
+H:\C#\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.exe
+H:\C#\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.deps.json
+H:\C#\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.runtimeconfig.json
+H:\C#\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.dll
+H:\C#\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.pdb
+H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.dll
+H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\refint\Library Management System.dll
+H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.pdb
+H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.genruntimeconfig.cache
+H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\ref\Library Management System.dll
