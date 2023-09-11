@@ -13,3 +13,17 @@ H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\refin
 H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.pdb
 H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.genruntimeconfig.cache
 H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\ref\Library Management System.dll
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.exe
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.deps.json
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.runtimeconfig.json
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.dll
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.pdb
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfoInputs.cache
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfo.cs
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.csproj.CoreCompileInputs.cache
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.dll
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\refint\Library Management System.dll
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.pdb
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.genruntimeconfig.cache
+\\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\ref\Library Management System.dll

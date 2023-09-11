@@ -84,41 +84,41 @@ namespace Library_Management_System
 
         public void SaveItemsToFile()
         {
-            string directoryPath = @"H:\console_app_csharp";
-            string fileName = "libraryData.txt";
-            string filePath = Path.Combine(directoryPath, fileName);
-            try
-            {
-                Directory.CreateDirectory(directoryPath);
-                using (StreamWriter writer = new StreamWriter(filePath))
-                {
-                    writer.WriteLine(items);
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("An error occured: {0}", ex.Message);
-            }
-            //foreach (var item in items)
+            //string directoryPath = @"H:\console_app_csharp";
+            //string fileName = "libraryData.txt";
+            //string filePath = Path.Combine(directoryPath, fileName);
+            //try
             //{
-            //    string directoryPath = @"H:\console_app_csharp";
-            //    string fileName = "libraryData.txt";
-            //    string filePath = Path.Combine(directoryPath, fileName);
-            //    try
+            //    Directory.CreateDirectory(directoryPath);
+            //    using (StreamWriter writer = new StreamWriter(filePath))
             //    {
-            //        Directory.CreateDirectory(directoryPath);
-            //        using (StreamWriter writer = new StreamWriter(filePath))
-            //        {
-            //            writer.WriteLine($"Title: {item.Title},\n" +
-            //    $"Author: {item.Author},\n" +
-            //    $"Status: {item.Status}\n");
-            //        }
-            //    }
-            //    catch (Exception ex)
-            //    {
-            //        Console.WriteLine("An error occured: {0}", ex.Message);
+            //        writer.WriteLine(items);
             //    }
             //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine("An error occured: {0}", ex.Message);
+            //}
+            foreach (var item in items)
+            {
+                string directoryPath = @"H:\console_app_csharp";
+                string fileName = "libraryData.txt";
+                string filePath = Path.Combine(directoryPath, fileName);
+                try
+                {
+                    Directory.CreateDirectory(directoryPath);
+                    using (StreamWriter writer = new StreamWriter(filePath))
+                    {
+                        writer.WriteLine($"Title: {item.Title},\n" +
+                $"Author: {item.Author},\n" +
+                $"Status: {item.Status}\n");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("An error occured: {0}", ex.Message);
+                }
+            }
 
         }
     }

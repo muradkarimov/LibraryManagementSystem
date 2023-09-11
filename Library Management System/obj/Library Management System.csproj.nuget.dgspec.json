@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\C#\\Library Management System\\Library Management System\\Library Management System.csproj": {}
+    "\\\\Win-fiasha0sd9s\\c#\\Library Management System\\Library Management System\\Library Management System.csproj": {}
   },
   "projects": {
-    "H:\\C#\\Library Management System\\Library Management System\\Library Management System.csproj": {
+    "\\\\Win-fiasha0sd9s\\c#\\Library Management System\\Library Management System\\Library Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\C#\\Library Management System\\Library Management System\\Library Management System.csproj",
+        "projectUniqueName": "\\\\Win-fiasha0sd9s\\c#\\Library Management System\\Library Management System\\Library Management System.csproj",
         "projectName": "Library Management System",
-        "projectPath": "H:\\C#\\Library Management System\\Library Management System\\Library Management System.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "H:\\C#\\Library Management System\\Library Management System\\obj\\",
+        "projectPath": "\\\\Win-fiasha0sd9s\\c#\\Library Management System\\Library Management System\\Library Management System.csproj",
+        "packagesPath": "C:\\Users\\Cyborg\\.nuget\\packages\\",
+        "outputPath": "\\\\Win-fiasha0sd9s\\c#\\Library Management System\\Library Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cyborg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
