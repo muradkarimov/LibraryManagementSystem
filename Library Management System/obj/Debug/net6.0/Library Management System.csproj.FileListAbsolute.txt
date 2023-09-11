@@ -27,3 +27,17 @@ H:\C#\Library Management System\Library Management System\obj\Debug\net6.0\ref\L
 \\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.pdb
 \\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.genruntimeconfig.cache
 \\Win-fiasha0sd9s\c#\Library Management System\Library Management System\obj\Debug\net6.0\ref\Library Management System.dll
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.exe
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.deps.json
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.runtimeconfig.json
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.dll
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.pdb
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfoInputs.cache
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfo.cs
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.dll
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\obj\Debug\net6.0\refint\Library Management System.dll
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.pdb
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.genruntimeconfig.cache
+C:\Users\Cyborg\Documents\CSharp\Library Management System\Library Management System\obj\Debug\net6.0\ref\Library Management System.dll

@@ -10,7 +10,7 @@ namespace LibraryManagementSystem
         static void Main(string[] args)
         {
 
-            string pattern = "^[a-zA-Z0-9]+$";
+            string pattern = @"^[a-zA-Z0-9\s]*$";
             Regex regex = new Regex(pattern);
             Library library = new Library();
             while (true)

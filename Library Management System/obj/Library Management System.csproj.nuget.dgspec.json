@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Win-fiasha0sd9s\\c#\\Library Management System\\Library Management System\\Library Management System.csproj": {}
+    "C:\\Users\\Cyborg\\Documents\\CSharp\\Library Management System\\Library Management System\\Library Management System.csproj": {}
   },
   "projects": {
-    "\\\\Win-fiasha0sd9s\\c#\\Library Management System\\Library Management System\\Library Management System.csproj": {
+    "C:\\Users\\Cyborg\\Documents\\CSharp\\Library Management System\\Library Management System\\Library Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Win-fiasha0sd9s\\c#\\Library Management System\\Library Management System\\Library Management System.csproj",
+        "projectUniqueName": "C:\\Users\\Cyborg\\Documents\\CSharp\\Library Management System\\Library Management System\\Library Management System.csproj",
         "projectName": "Library Management System",
-        "projectPath": "\\\\Win-fiasha0sd9s\\c#\\Library Management System\\Library Management System\\Library Management System.csproj",
+        "projectPath": "C:\\Users\\Cyborg\\Documents\\CSharp\\Library Management System\\Library Management System\\Library Management System.csproj",
         "packagesPath": "C:\\Users\\Cyborg\\.nuget\\packages\\",
-        "outputPath": "\\\\Win-fiasha0sd9s\\c#\\Library Management System\\Library Management System\\obj\\",
+        "outputPath": "C:\\Users\\Cyborg\\Documents\\CSharp\\Library Management System\\Library Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cyborg\\AppData\\Roaming\\NuGet\\NuGet.Config",

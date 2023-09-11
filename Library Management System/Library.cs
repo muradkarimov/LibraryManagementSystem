@@ -99,15 +99,17 @@ namespace Library_Management_System
             //{
             //    Console.WriteLine("An error occured: {0}", ex.Message);
             //}
-            foreach (var item in items)
+            string directoryPath = @"C:\Users\Cyborg\Documents\CSharp";
+            string fileName = "libraryData.txt";
+            string filePath = Path.Combine(directoryPath, fileName);
+            Directory.CreateDirectory(directoryPath);
+            using (StreamWriter writer = new StreamWriter(filePath))
+                foreach (var item in items)
             {
-                string directoryPath = @"H:\console_app_csharp";
-                string fileName = "libraryData.txt";
-                string filePath = Path.Combine(directoryPath, fileName);
+                
                 try
                 {
-                    Directory.CreateDirectory(directoryPath);
-                    using (StreamWriter writer = new StreamWriter(filePath))
+                    
                     {
                         writer.WriteLine($"Title: {item.Title},\n" +
                 $"Author: {item.Author},\n" +
